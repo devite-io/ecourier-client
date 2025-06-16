@@ -1,0 +1,17 @@
+# Build files
+dist
+
+# Dependencies
+/node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+/.pnp
+.pnp.js
+
+# IDE files
+.idea
+.vscode
+
+# OS files
+.DS_Store
