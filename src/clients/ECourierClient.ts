@@ -52,7 +52,7 @@ class ECourierClient {
             body: await this.parseBody(response)
           });
         }
-      })
+      }).catch(() => undefined)
     );
   }
 
