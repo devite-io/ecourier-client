@@ -1,6 +1,6 @@
 {
   "name": "@devite/ecourier-client",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Third party API client for eCourier.",
   "repository": "devite-io/ecourier-client",
   "license": "MIT",
