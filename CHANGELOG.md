@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v1.0.4
+
+[compare changes](https://github.com/devite-io/ecourier-client/compare/v1.0.3...v1.0.4)
+
+### 🏡 Chore
+
+- Change package manager to bun ([a2840d9](https://github.com/devite-io/ecourier-client/commit/a2840d9))
+
+### ❤️ Contributors
+
+- Justus Geramb <admin@justix.dev>
+
 ## v1.0.3
 
 [compare changes](https://github.com/devite-io/ecourier-client/compare/v1.0.2...v1.0.3)
